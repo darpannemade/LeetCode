@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/darpannemade/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darpannemade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0498-diagonal-traverse](https://github.com/darpannemade/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/darpannemade/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/darpannemade/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/darpannemade/LeetCode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
