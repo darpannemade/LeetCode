@@ -1,3 +1,6 @@
+// This is one approach and another approach is three pointer approach where one pointer(p1) to nums1 other to nums2 (p2) and third to new array(p3) and
+//will compare the p1 and p2 for smaller number and smaller one will be added to p3 i.e new array and then find the median. 
+
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
