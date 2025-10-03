@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/darpannemade/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/darpannemade/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darpannemade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/darpannemade/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/darpannemade/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/darpannemade/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/darpannemade/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/darpannemade/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/darpannemade/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/darpannemade/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## String
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/darpannemade/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darpannemade/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
