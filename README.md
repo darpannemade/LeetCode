@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darpannemade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0498-diagonal-traverse](https://github.com/darpannemade/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/darpannemade/LeetCode/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
