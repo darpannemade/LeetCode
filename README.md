@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/darpannemade/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/darpannemade/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/darpannemade/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/darpannemade/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/darpannemade/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/darpannemade/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/darpannemade/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/darpannemade/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darpannemade/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/darpannemade/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/darpannemade/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
