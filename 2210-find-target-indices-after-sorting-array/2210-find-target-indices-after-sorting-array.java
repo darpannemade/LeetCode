@@ -7,19 +7,20 @@ class Solution {
             if(ele==target){
                 tcount++;
             }
-            else if(ele<target){
-                num++;
+            else if (ele<target)
+            {
+              num++;  
             }
         }
-    
-    List <Integer> ans=new ArrayList<>();
 
-    while(tcount>0){
-        ans.add(num);
-        num++;
-        tcount--;
+        List <Integer> ans = new ArrayList<>();
+        while(tcount>0){
+            ans.add(num);
+            num++;
+            tcount--;
+        }
 
-    }
         return ans;
+
     }
 }
